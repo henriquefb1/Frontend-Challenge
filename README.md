@@ -13,4 +13,4 @@ Notes:
 
 Please do bear in mind that this has been done while having very little experience, all self-taught, studying for 1/1,5 hours per day while having a very busy routine as a teacher both at school and giving private lessons.
 
-I strongly believe that by joining a supportive and active team, I may be able to improve my skills much faster and bring value back to the company.
+I strongly believe that by joining a supportive and active team, I may be able to improve my skills much faster and such can be accomplished by the Jungle Devs internship program.
