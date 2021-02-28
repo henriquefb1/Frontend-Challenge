@@ -10,6 +10,6 @@ Notes:
 - Code definitelly can be worked in a cleaner and probably more logical way, quite some room for improvement.
 - Small normalize.css file added to the challenge, which could have been simply added to the original styles.css, hopefully it won't be a problem.
 
-Please do bear in mind that this has been done while having very little experience, all self-taught, while studying for 1, max 2 hours per day while having a very busy routine as a teacher both at school and giving private lessons.
+Please do bear in mind that this has been done while having very little experience, all self-taught, studying for 1/1,5 hours per day while having a very busy routine as a teacher both at school and giving private lessons.
 
 I strongly believe that by joining a supportive and active team, I may be able to improve my skills much faster and bring value back to the company.
